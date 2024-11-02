@@ -7,7 +7,7 @@
 
 ```
 
-sudo apt-get install clamav clamav-daemon cmatrix cowsay chromium discord figlet ffmpeg flatpak fortune gimp gnome-sushi gnome-tweaks htop lm-sensors lutris neofetch notepadqq obs-studio papirus-icon-theme piper stacer steam tree vlc zsnes
+sudo apt-get install clamav clamav-daemon cmatrix cowsay chromium-bsu discord figlet ffmpeg flatpak fortune gimp gnome-sushi gnome-tweaks htop lm-sensors lutris neofetch notepadqq obs-studio papirus-icon-theme piper stacer steam tree vlc zsnes
 
 ```
 
@@ -117,11 +117,11 @@ system76-power profile performance
 
 ```
 
-### Optionals
+### Optional
 
 ```
 
-sudo apt install screenkey
+sudo apt-get install screenkey
 
 ```
 
