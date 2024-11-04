@@ -1,13 +1,15 @@
 
 # pop-apps
 
+![Not Arch BTW](https://github.com/fernandocido/arch-installation-sketch/blob/main/arch-btw.png)
+
 ## Install on Linux (Pop_OS!)
 
 ### Via Linux Terminal:
 
 ```
 
-sudo apt-get install clamav clamav-daemon cmatrix cowsay chromium-bsu discord figlet ffmpeg flatpak fortune gimp gnome-sushi gnome-tweaks htop lm-sensors lutris neofetch notepadqq obs-studio papirus-icon-theme piper stacer steam tree vlc zsnes
+sudo apt-get install clamav clamav-daemon cmatrix cowsay discord figlet ffmpeg flatpak fortune gimp gnome-sushi gnome-tweaks htop lm-sensors lutris neofetch notepadqq obs-studio papirus-icon-theme piper stacer steam tree vlc zsnes
 
 ```
 
@@ -26,7 +28,9 @@ sudo apt-get install clamav clamav-daemon cmatrix cowsay chromium-bsu discord fi
 
 * **Brave**
 
-* **Calibre**  
+* **Calibre**
+
+* **Chromium**
 
 * **DevToolBox**  
 ` ` <https://github.com/aleiepure/devtoolbox>
@@ -47,7 +51,7 @@ sudo apt-get install clamav clamav-daemon cmatrix cowsay chromium-bsu discord fi
 ` ` *issue* <https://github.com/obinslab/obinslab-starter-translations/issues/9>
 
 * **OhMyZsh**  
-` ` *and extensions: git colored-man-pages zsh-autosuggestions*
+` ` *and plugins=(git colored-man-pages zsh-autosuggestions zsh-syntax-highlighting)*
 
 * **OpenRazer**  
 ` ` <https://openrazer.github.io/#download>
@@ -95,10 +99,10 @@ sudo dpkg-reconfigure libdvd-pkg
 
 ```
 
-### Create Desktop Entries  
+### Create desktop entries  
 ` ` <https://www.baeldung.com/linux/desktop-entry-files>
 
-### Enable Firewall
+### Enable firewall
 
 ```
 
@@ -122,6 +126,15 @@ system76-power profile performance
 ```
 
 sudo apt-get install screenkey
+
+```
+
+### Python && Pyenv
+
+```
+
+sudo apt-get install default-libmysqlclient-dev libbz2-dev libffi-dev liblzma-dev libncurses5-dev libncursesw5-dev libreadline-dev libssl-dev libsqlite3-dev llvm python3.10-dev python3.10-full python3-openssl tk-dev xz-utils zlib1g-dev
+curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer | bash
 
 ```
 
