@@ -44,6 +44,9 @@ sudo apt-get install clamav clamav-daemon cmatrix cowsay discord figlet ffmpeg f
 * **Input Remapper** (e.g. ACER NITRO 5 “N” key)  
 ` ` <https://github.com/sezanzeb/input-remapper>
 
+* **M5Burner**  
+` ` <https://docs.m5stack.com/en/download>
+
 * **Notion**  
 ` ` *Use Browser Version*
  
@@ -55,6 +58,8 @@ sudo apt-get install clamav clamav-daemon cmatrix cowsay discord figlet ffmpeg f
 
 * **OpenRazer**  
 ` ` <https://openrazer.github.io/#download>
+
+* **Pomodoro Timer**
 
 * **Portmaster**  
 ` ` <https://safing.io/>
