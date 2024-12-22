@@ -1,7 +1,7 @@
 
 # pop-apps
 
-![Not Arch BTW](https://github.com/fernandocido/arch-installation-sketch/blob/main/arch-btw.png)
+![Not Arch BTW](https://github.com/fernandocido/pop-apps/blob/main/not-arch-btw.png)
 
 ## Install on Linux (Pop_OS!)
 
