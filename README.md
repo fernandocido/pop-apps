@@ -9,7 +9,7 @@
 
 ```
 
-sudo apt-get install clamav clamav-daemon cmatrix cowsay discord figlet ffmpeg flatpak fortune gimp gnome-sushi gnome-tweaks htop lm-sensors lutris neofetch notepadqq obs-studio papirus-icon-theme piper stacer steam tree vlc zsnes
+sudo apt-get install clamav clamav-daemon cmatrix cowsay discord figlet ffmpeg flatpak fortune gimp gnome-sushi gnome-tweaks htop inkscape lm-sensors lutris neofetch notepadqq obs-studio papirus-icon-theme piper stacer steam tree vlc zsnes
 
 ```
 
