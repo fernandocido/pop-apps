@@ -17,6 +17,9 @@ sudo apt-get install clamav clamav-daemon cmatrix cowsay discord figlet ffmpeg f
 
 * **Android Studio**
 
+* **APK Tool**  
+` ` <https://apktool.org/>
+
 * **Arduino IDE**  
 ` ` *and* <https://github.com/taunoe/arduino-dark-theme>
  
