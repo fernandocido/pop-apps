@@ -47,6 +47,9 @@ sudo apt-get install clamav clamav-daemon cmatrix cowsay discord figlet ffmpeg f
 * **Input Remapper** (e.g. ACER NITRO 5 “N” key)  
 ` ` <https://github.com/sezanzeb/input-remapper>
 
+* **LibreWolf**  
+` ` <https://librewolf.net/installation/debian/>
+
 * **M5Burner**  
 ` ` <https://docs.m5stack.com/en/download>
 
