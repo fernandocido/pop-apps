@@ -44,8 +44,14 @@ sudo apt-get install clamav clamav-daemon cmatrix cowsay discord figlet ffmpeg f
 * **GOverlay**  
 ` ` <https://github.com/benjamimgois/goverlay>
 
+* **GSmartControl**  
+` ` <https://github.com/benjamimgois/goverlay](https://gsmartcontrol.shaduri.dev>
+
 * **Input Remapper** (e.g. ACER NITRO 5 “N” key)  
 ` ` <https://github.com/sezanzeb/input-remapper>
+
+* **KDiskMark**  
+` ` <https://github.com/sezanzeb/input-remapper](https://github.com/JonMagon/KDiskMark>
 
 * **LibreWolf**  
 ` ` <https://librewolf.net/installation/debian/>
