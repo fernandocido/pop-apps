@@ -56,6 +56,9 @@ sudo apt-get install clamav clamav-daemon cmatrix cowsay discord figlet ffmpeg f
 * **LibreWolf**  
 ` ` <https://librewolf.net/installation/debian/>
 
+* **LM Studio**  
+` ` <https://lmstudio.ai/download/>
+
 * **M5Burner**  
 ` ` <https://docs.m5stack.com/en/download>
 
@@ -125,6 +128,19 @@ sudo dpkg-reconfigure libdvd-pkg
 
 sudo ufw enable
 sudo ufw status
+
+```
+
+### Flatpaks
+
+```
+
+flatpak install flathub io.appflowy.AppFlowy
+flatpak install flathub io.github.chidiwilliams.Buzz
+flatpak install flathub com.github.johnfactotum.Foliate
+flatpak install flathub com.github.tenderowl.frog
+flatpak install flathub io.missioncenter.MissionCenter
+flatpak install flathub org.upscayl.Upscayl
 
 ```
 
